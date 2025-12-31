@@ -66,7 +66,16 @@ The design has been tested using **Xilinx Vivado Simulator**.
 | tb | alu_tb.v | Testbench |
 | mem | test_vectors.mem | Test vectors |
 
+---
 
+
+## Download
+
+You can download the complete FlexiALU Verilog code folder here:  
+
+[Download FlexiALU.zip](https://github.com/user-attachments/files/24395394/FlexiALU.zip)
+
+---
 
 
 
